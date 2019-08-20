@@ -1,0 +1,549 @@
+{
+  "TarotCards": [
+    {
+      "TarotName": "The Fool",
+      "TarotSet": "Major Arcana",
+      "TarotNum": "0",
+      "TarotInfo": "New beginnings, optimism, trust in life",
+      "TarotImg": "fool.jpg"
+    },
+    {
+      "TarotName": "The Magician",
+      "TarotSet": "Major Arcana",
+      "TarotNum": "I",
+      "TarotInfo": "Action, the power to manifest",
+      "TarotImg": "magician.jpg"
+    },
+    {
+      "TarotName":"The High Priestess", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"II", 
+      "TarotInfo":"Inaction, going within, the mystical",
+      "TarotImg":"highpriestess.jpg"
+    },
+    {
+      "TarotName":"The Empress", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"III", 
+      "TarotInfo":"Abundance, nurturing, fertility, life in bloom!", 
+      "TarotImg":"empress.jpg"
+    },
+    {
+      "TarotName":"The Emperor", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"IV", 
+      "TarotInfo":"Structure, stability, rules and power", 
+      "TarotImg":"emperor.jpg"
+    },
+    {
+      "TarotName":"The Hierophant", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"V", 
+      "TarotInfo":"Institutions, tradition, society and its rules", 
+      "TarotImg":"hierophant.jpg"
+    },
+    {
+      "TarotName":"The Lovers", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"VI", 
+      "TarotInfo":"Sexuality, passion, choice, uniting", 
+      "TarotImg":"lovers.jpg"
+    },
+    {
+      "TarotName":"The Chariot", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"VII", 
+      "TarotInfo":"Movement, progress, integration", 
+      "TarotImg":"chariot.jpg"
+    },
+    {
+      "TarotName":"Strength", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"VIII", 
+      "TarotInfo":"Courage, subtle power, integration of animal self", 
+      "TarotImg":"strength.jpg"
+    },
+    {
+      "TarotName":"The Hermit", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"IX", 
+      "TarotInfo":"Meditation, solitude, consciousness", 
+      "TarotImg":"hermit.jpg"
+    },
+    {
+      "TarotName":"Wheel of Fortune", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"X", 
+      "TarotInfo":"Cycles, change, ups and downs", 
+      "TarotImg":"wheel.jpg"
+    },
+    {
+      "TarotName":"Justice", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XI", 
+      "TarotInfo":"Fairness, equality, balance", 
+      "TarotImg":"justice.jpg"
+    },
+    {
+      "TarotName":"The Hanged Man", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XII", 
+      "TarotInfo":"Surrender, new perspective, enlightenment", 
+      "TarotImg":"hanged.jpg"
+    },
+    {
+      "TarotName":"Death", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XIII", 
+      "TarotInfo":"The end of something, change, the impermeability of all things", 
+      "TarotImg":"death.jpg"
+    },
+    {
+      "TarotName":"Temperance", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XIV", 
+      "TarotInfo":"Balance, moderation, being sensible", 
+      "TarotImg":"temperance.jpg"
+    },
+    {
+      "TarotName":"The Devil", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XV", 
+      "TarotInfo":"Destructive patterns, addiction, giving away your power", 
+      "TarotImg":"devil.jpg"
+    },
+    {
+      "TarotName":"The Tower", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XVI", 
+      "TarotInfo":"Collapse of stable structures, release, sudden insight", 
+      "TarotImg":"tower.jpg"
+    },
+    {
+      "TarotName":"The Star", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XVII", 
+      "TarotInfo":"Hope, calm, a good omen!", 
+      "TarotImg":"star.jpg"
+    },
+    {
+      "TarotName":"The Moon", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XVIII", 
+      "TarotInfo":"Mystery, the subconscious, dreams", 
+      "TarotImg":"moon.jpg"
+    },
+    {
+      "TarotName":"The Sun", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XIV", 
+      "TarotInfo":" Success, happiness, all will be well", 
+      "TarotImg":"sun.jpg"
+    },
+    {
+      "TarotName":"Judgement", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XX", 
+      "TarotInfo":"Rebirth, a new phase, inner calling", 
+      "TarotImg":"judgement.jpg"
+    },
+    {
+      "TarotName":"The World", 
+      "TarotSet":"Major Arcana", 
+      "TarotNum":"XI", 
+      "TarotInfo":"Completion, wholeness, attainment, celebration of life ", 
+      "TarotImg":"world.jpg"
+    },
+    {
+      "TarotName":"King of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Serious, controlling, rational and mind/intellect-focused", 
+      "TarotImg":"SKing.jpg"
+    },
+    {
+      "TarotName":"Queen o Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Intelligent, writer, communicative yet cold - cuts through B.S.", 
+      "TarotImg":"SQueen.jpg"
+    },
+    {
+      "TarotName":"Knight of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Fierce, determined, aggressively pursues goals", 
+      "TarotImg":"SKnight.jpg"
+    },
+    {
+      "TarotName":"Page of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"Face", 
+      "TarotInfo":"mentally unstable or intellectually immature, acts without thinking", 
+      "TarotImg":"SPage.jpg"
+    },
+    {
+      "TarotName":"Ace of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"Face", 
+      "TarotInfo":"A fresh start, a sudden opportunity or idea, clarity", 
+      "TarotImg":"Sace.jpg" 
+    },
+    {
+      "TarotName":"2 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"2", 
+      "TarotInfo":"Indecision", 
+      "TarotImg":"S2.jpg" 
+    },
+    {
+      "TarotName":"3 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"3", 
+      "TarotInfo":"heartbreak, betrayal", 
+      "TarotImg":"S3.jpg"
+    },
+    {
+      "TarotName":"4 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"4", 
+      "TarotInfo":"meditation, rest, retreat", 
+      "TarotImg":"S4.jpg"
+    },
+    {
+      "TarotName":"5 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"5", 
+      "TarotInfo":"mind games, hostility", 
+      "TarotImg":"S5.jpg"
+    },
+    {
+      "TarotName":"6 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"6", 
+      "TarotInfo":"leaving, accepting help, going somewhere better", 
+      "TarotImg":"S6.jpg"
+    },
+    {
+      "TarotName":"7 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"7", 
+      "TarotInfo":"secret plans, abandoning ship", 
+      "TarotImg":"S7.jpg"
+    },
+    {
+      "TarotName":"8 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"8", 
+      "TarotInfo":"feeling powerless and stuck", 
+      "TarotImg":"S8.jpg" 
+    },
+    {
+      "TarotName":"9 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"9", 
+      "TarotInfo":"Overactive mind, anxiety", 
+      "TarotImg":"S9.jpg"
+    },
+    {
+      "TarotName":"10 of Swords", 
+      "TarotSet":"Suit of Swords", 
+      "TarotNum":"10", 
+      "TarotInfo":"feeling defeated, self sabotage", 
+      "TarotImg":"S10.jpg"
+    },
+    {
+      "TarotName":"King of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Need to acknowledge deep feelings, avoid drowning out emotions", 
+      "TarotImg":"CKing.jpg"
+    },
+    {
+      "TarotName":"Queen of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Emotionally nurturing, intuitive, sensitive", 
+      "TarotImg":"CQueen.jpg"
+    },
+    {
+      "TarotName":"Kinght of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Romantic, adventurous, following one’s heart", 
+      "TarotImg":"CKnight.jpg"
+    },
+    {
+      "TarotName":"Page of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Creative, inspired, learning artistic skill", 
+      "TarotImg":"CPage.jpg"
+    },
+    {
+      "TarotName":"Ace of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"Face", 
+      "TarotInfo":"emotional fulfillment, joy", 
+      "TarotImg":"Cace.jpg"
+    },
+    {
+      "TarotName":"2 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"2", 
+      "TarotInfo":"partnership, mutual attraction, compatibility", 
+      "TarotImg":"C2.jpg"
+    },
+    {
+      "TarotName":"3 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"3", 
+      "TarotInfo":"celebration, fun with friends, laughter", 
+      "TarotImg":"C3.jpg"
+    },
+    {
+      "TarotName":"4 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"4", 
+      "TarotInfo":"boredom, dissatisfaction with what is being offered", 
+      "TarotImg":"C4.jpg"
+    },
+    {
+      "TarotName":"5 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"5", 
+      "TarotInfo":"dwelling on the negative, self pity",
+      "TarotImg":"C5.jpg"
+    },
+    {
+      "TarotName":"6 of Cups", "TarotSet":"Suit of Cups", 
+      "TarotNum":"6", 
+      "TarotInfo":" sentimentality, kindness, help", 
+      "TarotImg":"C6.jpg"
+    },
+    {
+      "TarotName":"7 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"7", 
+      "TarotInfo":"so many choices! Indecision, getting lost in fantasy", 
+      "TarotImg":"C7.jpg"
+    },
+    {
+      "TarotName":"8 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"8", 
+      "TarotInfo":"abandoning something in search of something better", 
+      "TarotImg":"C8.jpg"
+    },
+    {
+      "TarotName":"9 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"9", 
+      "TarotInfo":"indulgence, self-satisfaction", 
+      "TarotImg":"C9.jpg"
+    },
+    {
+      "TarotName":"10 of Cups", 
+      "TarotSet":"Suit of Cups", 
+      "TarotNum":"10", 
+      "TarotInfo":"emotional bliss, happiness, attainment ", 
+      "TarotImg":"C10.jpg"
+    },
+    {
+      "TarotName":"King of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Career focused, mature, passionate", 
+      "TarotImg":"WKing.jpg"
+    },
+    {
+      "TarotName":"Queen of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Confidant, focused, has zest for life", 
+      "TarotImg":"WQueen.jpg"
+    },
+    {
+      "TarotName":"Knight of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"Face", 
+      "TarotInfo":"An adventurous risk taker who follows his passions", 
+      "TarotImg":"WKnight.jpg"
+    },
+    {
+      "TarotName":"Page of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"Face", 
+      "TarotInfo":"newly inspired, excited about life and work", 
+      "TarotImg":"WPage.jpg"
+    },
+    {
+      "TarotName":"Ace of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"Face", 
+      "TarotInfo":"New beginnings, creative spark, fertile ideas", 
+      "TarotImg":"Wace.jpg"
+    },
+    {
+      "TarotName":"2 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"2", 
+      "TarotInfo":"Contemplation, assessing ones life direction", 
+      "TarotImg":"W2.jpg"
+    },
+    {
+      "TarotName":"3 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"3", 
+      "TarotInfo":"Reaping the rewards of your efforts", 
+      "TarotImg":"W3.jpg"
+    },
+    {
+      "TarotName":"4 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"4", 
+      "TarotInfo":"Celebration, safety, the home", 
+      "TarotImg":"W4.jpg"
+    },
+    {
+      "TarotName":"5 of Wands",
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"5", 
+      "TarotInfo":"Competition, minor struggles or disagreements", 
+      "TarotImg":"W5.jpg"
+    },
+    {
+      "TarotName":"6 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"6", 
+      "TarotInfo":"Success, accolades and achievement", 
+      "TarotImg":"W6.jpg"
+    },
+    {
+      "TarotName":"7 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"7", 
+      "TarotInfo":"Feeling defensive and on guard", 
+      "TarotImg":"W7.jpg"
+    },
+    {
+      "TarotName":"8 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"8", 
+      "TarotInfo":"Speed, things manifesting quickly", 
+      "TarotImg":"W8.jpg"
+    },
+    {
+      "TarotName":"9 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"9", 
+      "TarotInfo":"Pessimism, gearing up for the worst", 
+      "TarotImg":"W9.jpg"
+    },
+    {
+      "TarotName":"10 of Wands", 
+      "TarotSet":"Suit of Wands", 
+      "TarotNum":"10", 
+      "TarotInfo":"Feeling oppressed, exhaustion, too many responsibilities ", 
+      "TarotImg":"W10.jpg"
+    },
+    {
+      "TarotName":"King of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Enjoys the good life (food, drink and leisure), financially secure", 
+      "TarotImg":"PKing.jpg"
+    },
+    {
+      "TarotName":"Queen of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Healthy in body and finances, grounded and calm", 
+      "TarotImg":"PQueen.jpg"
+    },
+    {
+      "TarotName":"Knight of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Cautious, sensible and slow to progress", 
+      "TarotImg":"PKnight.jpg"
+    },
+    {
+      "TarotName":"Page of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"Face", 
+      "TarotInfo":"Student, commitment to learning", 
+      "TarotImg":"PPage.jpg"
+    },
+    {
+      "TarotName":"Ace of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"Face",
+      "TarotInfo":"Financial reward, clarity of life purpose, goals", 
+      "TarotImg":"Pace.jpg"
+    },
+    {
+      "TarotName":"2 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"2", 
+      "TarotInfo":"Balance, multitasking", 
+      "TarotImg":"P2.jpg"
+    },
+    {
+      "TarotName":"3 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"3", 
+      "TarotInfo":"Meaningful work, enjoying one’s work, suitable career", 
+      "TarotImg":"P3.jpg"
+    },
+    {
+      "TarotName":"4 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"4", 
+      "TarotInfo":"Hoarding, feeling poor, holding self back out of fear", 
+      "TarotImg":"P4.jpg"
+    },
+    {
+      "TarotName":"5 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"5", 
+      "TarotInfo":"Minor money troubles, health problems, feeling like an outsider", 
+      "TarotImg":"P5.jpg"
+    },
+    {
+      "TarotName":"6 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"6", 
+      "TarotInfo":"Charity, accepting and giving help", 
+      "TarotImg":"P6.jpg"
+    },
+    {
+      "TarotName":"7 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"7", 
+      "TarotInfo":"Patience, waiting for your plans to bear fruit", 
+      "TarotImg":"P7.jpg"
+    },
+    {
+      "TarotName":"8 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"8", 
+      "TarotInfo":"Hard work, focused efforts, laying the groundwork", 
+      "TarotImg":"P8.jpg"
+    },
+    {
+      "TarotName":"9 of Pentacles", "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"9", 
+      "TarotInfo":"Luxury, rest, financial and material comforts", 
+      "TarotImg":"P9.jpg"
+    },
+    {
+      "TarotName":"10 of Pentacles", 
+      "TarotSet":"Suit of Pentacles", 
+      "TarotNum":"10", 
+      "TarotInfo":"Financial success, strong business relationships", 
+      "TarotImg":"P10.jpg"
+    }
+  ], "Status": "OK"
+}
+ 
